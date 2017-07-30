@@ -6,7 +6,8 @@ import (
 )
 
 func main() {
-    s := "Racecar"
+    s := "!oG ,olleH"
     fmt.Printf("Hello, world!\n")
-    fmt.Printf("%s\n",stringutil.Reverse(s)); // Don't need to quality stringutil here since its the only one called that
+    // Don't need to quality stringutil here since its the only one called that
+    fmt.Printf("Reverse %s -> %s\n",s,stringutil.Reverse(s)); //Printf is fairly similar to the C printf with format specifiers
 }
