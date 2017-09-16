@@ -8,4 +8,5 @@ Basic features
 
 ### Stuff used to make this:
 
- * This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
+ * Tutorial for RESTful endpoints [thenewstack.io](https://thenewstack.io/make-a-restful-json-api-go/)
+ * README editor [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
